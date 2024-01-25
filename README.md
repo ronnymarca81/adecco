@@ -24,7 +24,9 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ### Case Analysis
 
-In this case for the login page, there could be differents options:
+In this case the client required an application with a login and a task manager with drag and drop like Trello. According with the information provided the analysis is:
+
+For the login page, there could be differents options:
 - Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
 - If the company has corporate mail, the authentication can be through it.
 - Authentication with third parties such as: Gmail, Facebook and others.
@@ -34,9 +36,12 @@ About the planner Trello-type, the application could have Kanban groups which ma
 
 For this short sprint?? the login is through authentication the user credentials (email and password), as well as recovering the access via email. Users can create one dashboard/kanban for each of their projects, on it they can add cards/columns with a task list. Each task can be drag and drop between the differents cards according its state to manage the project. 
 
-The others features could be added by company request.
-
 *****Justify more about the proposal, why the technologies
+The technologies used facilites...
+
+
+The others features could be analysis with the client and added by requeriment.
+
 
 ## Getting Started// Installation and run
 
@@ -68,6 +73,14 @@ bun dev
 You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
 Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.**
 
+To login:
+1. Open [http://localhost:3000](http://localhost:3000) with your browser
+
+![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
+
+2. Type your registered email and password.
+3. Click on the login button.
+
 To access to the application at the first time:
 1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page. Puedes cambiar aca y que diga register en vez de login??
 
@@ -76,13 +89,15 @@ To access to the application at the first time:
 2. Complete the form with your Full name, email and password.
 3. Click on the register button.
 
-To login:
-1. Open [http://localhost:3000](http://localhost:3000) with your browser
+Functions in the main dashboard:
 
-![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
+1. Clic on `Add Column` to create a new card. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
+2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible
+3. Drap and drop each task inside the card or between them to manage your task and 
+4. 
 
-2. Type your registered email and password.
-3. Click on the login button.
+![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/bfe11e98-9ade-4e68-a59f-79fca3bde117)
+
 
 ## Learn More
 
