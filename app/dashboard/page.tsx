@@ -1,4 +1,3 @@
-import './local.css'
 import dynamic from "next/dynamic";
 
 
