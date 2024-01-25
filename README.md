@@ -9,13 +9,13 @@ This repository contains an application with a login to enter it and a trello-ty
 - GIT
 - MONGODB
 - NEXTAUTH
-- TAILWIND
+- TAILWIND CSS
 
 ## Features
 
-What your application does,
+**What your application does,
 Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
+Some of the challenges you faced and features you hope to implement in the future.**
 
 - Intuitive and easy-to-use interface.
 - Route redirection.
@@ -64,18 +64,25 @@ bun dev
 
 ## Usage
 
-Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
+**Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
-Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
+Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.**
 
 To access to the application at the first time:
 1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page. Puedes cambiar aca y que diga register en vez de login??
 
-![register](https://github.com/ronnymarca81/adecco/assets/107527808/edf851b8-7387-4e6e-84bc-52307f359542)
+![register](https://github.com/ronnymarca81/adecco/assets/107527808/8a456ca8-b630-4648-8038-0834c153bda7)
 
-3. Complete the form with your Full name, email and password
-4. Click on the register button
+2. Complete the form with your Full name, email and password.
+3. Click on the register button.
 
+To login:
+1. Open [http://localhost:3000](http://localhost:3000) with your browser
+
+![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
+
+2. Type your registered email and password.
+3. Click on the login button.
 
 ## Learn More
 
