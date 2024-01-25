@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Adecco
+
+This repsository contain a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This project allows you to login or  sign up with your credentials (username and password), as well as recovering your access. Once you are in, you can create one dashboard for each of your projects, on it you can create cards with a task list.
+
+The aim of this platform is being easy to manage your projects, from their creation, passing the development step until their success ends. 
+
 
 ## Getting Started
 
