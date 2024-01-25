@@ -1,6 +1,6 @@
-## Adecco
+# Adecco
 
-This repository contains an application with a login to enter it and a trello-type task manager with drag and drop. This [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This repository contains an application with a login to enter it and a trello-type task manager with drag and drop.
 
 ## Technologies used
 
@@ -22,7 +22,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 - Drag-and-drop functionality for seamless organization.
 - Responsive design optimized for being using with desktop and mobile devices.
 
-## Case Analysis
+### Case Analysis
 
 In this case for the login page, there could be differents options:
 - Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
@@ -42,7 +42,7 @@ The others features could be added by company request.
 
 Follow the next steps:
 
-1. Clone the repository to your local machine using git clone https://github.com/shanedle/trello-redesign.git
+1. Clone the repository to your local machine using git clone [https://github.com/ronnymarca81/adecco](https://github.com/ronnymarca81/adecco/blob/main/README.md)
 2. Install dependencies by running yarn
 3. Run the development server with:
 
