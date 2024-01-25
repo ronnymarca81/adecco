@@ -2,6 +2,20 @@
 
 This repository contains an application with a login to enter it and a trello-type task manager with drag and drop.
 
+## Content table
+
+- [Technologies used](#Technologies-used)
+
+- [Features](##Features)
+
+  - [Case Analysis](###Case-Analysis)
+
+- [## Getting Started// Installation and run](###Getting-Started-/-/-Installation-and-run)
+
+- [Usage](##Usage)
+
+- [Learn More](##Learn-More)
+
 ## Technologies used
 
 - NEXTJS
@@ -39,9 +53,7 @@ For this short sprint?? the login is through authentication the user credentials
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
 
-
 The others features could be analysis with the client and added by requeriment.
-
 
 ## Getting Started// Installation and run
 
@@ -89,12 +101,11 @@ To access to the application at the first time:
 2. Complete the form with your Full name, email and password.
 3. Click on the register button.
 
-Functions in the main dashboard:
+Functions in the main dashboard allow the users to create different projects and manage them. To do that:
 
 1. Clic on `Add Column` to create a new card. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
-2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible
-3. Drap and drop each task inside the card or between them to manage your task and 
-4. 
+2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
+3. Drap and drop each task inside the card or between them to manage your tasks. 
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/bfe11e98-9ade-4e68-a59f-79fca3bde117)
 
