@@ -4,13 +4,13 @@ This repository contains an application with a login to enter it and a trello-ty
 
 ## Content table
 
-- [Technologies used](##Technologies-used)
+- [Technologies used](#Technologies-used)
 
 - [Features](##Features)
 
   - [Case Analysis](###Case-Analysis)
 
-- [## Getting Started// Installation and run](##Getting-Started-/-/-Installation-and-run)
+- [Getting Started// Installation and run](##Getting-Started-/-/-Installation-and-run)
 
 - [Usage](##Usage)
 
