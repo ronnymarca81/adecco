@@ -69,7 +69,7 @@ You can also make use of visual aids by including materials like screenshots to 
 Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
 
 To access to the application at the first time:
-1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page.
+1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page. Puedes cambiar aca y que diga register en vez de login??
 
 ![register](https://github.com/ronnymarca81/adecco/assets/107527808/edf851b8-7387-4e6e-84bc-52307f359542)
 
