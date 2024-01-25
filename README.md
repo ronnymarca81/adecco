@@ -2,37 +2,49 @@
 
 This repository contains an application with a login to enter it and a trello-type task manager with drag and drop. This [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-***This project allows you to login or register with your credentials (username and password), as well as recovering your access. Once you are in, you can create one dashboard for each of your projects, on it you can add cards with a task list. 
+## Technologies used
 
-**The aim of this platform is being easy to manage your projects, from their creation, passing the development step until their success ends. 
+- NEXTJS
+- TYPESCRIPT
+- GIT
+- MONGODB
+- NEXTAUTH
+- TAILWIND
 
-## Technologies
+## Features
 
-* NEXTJS
-* TYPESCRIPT
-* GIT
-* MONGODB
-* NEXTAUTH
-* TAILWIND
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
+
+- Intuitive and easy-to-use interface.
+- Route redirection.
+- Drag-and-drop functionality for seamless organization.
+- Responsive design optimized for being using with desktop and mobile devices.
 
 ## Case Analysis
 
 In this case for the login page, there could be differents options:
-* Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
-* If the company has corporate mail, the authentication can be through it.
-* Authentication with third parties such as: Gmail, Facebook and others.
-* Password recovery. When the user asks for this, an email is sent to the registered account to reset the password and access.
+- Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
+- If the company has corporate mail, the authentication can be through it.
+- Authentication with third parties such as: Gmail, Facebook and others.
+- Password recovery. When the user asks for this, an email is sent to the registered account to reset the password and access.
 
 About the planner Trello-type, the application could have Kanban groups which manages lists and inside those you can have tasks. Those tasks could be assigned to members, also they could manage the tasks with checklists, schedule and labels.
 
-For this short sprint?? the login is through authentication the user credentials (email and password), as well as recovering the access via email. Users can create one dashboard/kanban for each of their projects, on it they can add cards/columns with a task list. Each task can be drag and drop between the differents cards according its state to manage the project.
+For this short sprint?? the login is through authentication the user credentials (email and password), as well as recovering the access via email. Users can create one dashboard/kanban for each of their projects, on it they can add cards/columns with a task list. Each task can be drag and drop between the differents cards according its state to manage the project. 
 
 The others features could be added by company request.
+
+*****Justify more about the proposal, why the technologies
 
 ## Getting Started// Installation and run
 
 Follow the next steps:
-1. Run the development server:
+
+1. Clone the repository to your local machine using git clone https://github.com/shanedle/trello-redesign.git
+2. Install dependencies by running yarn
+3. Run the development server with:
 
 ```bash
 npm run dev
@@ -44,11 +56,26 @@ pnpm dev
 bun dev
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+** You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**This application uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Usage
+
+Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
+You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
+Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
+
+To access to the application at the first time:
+1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page.
+
+![register](https://github.com/ronnymarca81/adecco/assets/107527808/edf851b8-7387-4e6e-84bc-52307f359542)
+
+3. Complete the form with your Full name, email and password
+4. Click on the register button
+
 
 ## Learn More
 
