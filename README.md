@@ -1,6 +1,6 @@
 ## Adecco
 
-This repository contains an application will be a login to enter it and a trello-type task manager with drag and drop. This [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This repository contains an application with a login to enter it and a trello-type task manager with drag and drop. This [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ***This project allows you to login or register with your credentials (username and password), as well as recovering your access. Once you are in, you can create one dashboard for each of your projects, on it you can add cards with a task list. 
 
@@ -8,20 +8,20 @@ This repository contains an application will be a login to enter it and a trello
 
 ## Technologies
 
-NEXTJS
-TYPESCRIPT
-GIT
-MONGODB
-NEXTAUTH
-TAILWIND
+* NEXTJS
+* TYPESCRIPT
+* GIT
+* MONGODB
+* NEXTAUTH
+* TAILWIND
 
 ## Case Analysis
 
 In this case for the login page, there could be differents options:
-1. Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
-2. If the company has corporate mail, the authentication can be through it.
-3. Authentication with third parties such as: Gmail, Facebook and others.
-4. Password recovery. When the user asks for this, an email is sent to the registered account to reset the password and access.
+* Authentication with username (email) and password which are stored in a database. Once the user types the credentials, those are verified in the database and if they match, the user can access.
+* If the company has corporate mail, the authentication can be through it.
+* Authentication with third parties such as: Gmail, Facebook and others.
+* Password recovery. When the user asks for this, an email is sent to the registered account to reset the password and access.
 
 About the planner Trello-type, the application could have Kanban groups which manages lists and inside those you can have tasks. Those tasks could be assigned to members, also they could manage the tasks with checklists, schedule and labels.
 
@@ -31,7 +31,8 @@ The others features could be added by company request.
 
 ## Getting Started// Installation and run
 
-First, run the development server:
+Follow the next steps:
+1. Run the development server:
 
 ```bash
 npm run dev
@@ -43,7 +44,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
