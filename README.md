@@ -6,15 +6,15 @@ This repository contains an application with a login to enter it and a trello-ty
 
 - [Technologies used](#Technologies-used)
 
-- [Features](##Features)
+- [Features](#Features)
 
-  - [Case Analysis](###Case-Analysis)
+  - [Case Analysis](#Case-Analysis)
 
-- [Getting Started// Installation and run](##Getting-Started-/-/-Installation-and-run)
+- [Getting Started// Installation and run](#Getting-Started-/-/-Installation-and-run)
 
-- [Usage](##Usage)
+- [Usage](#Usage)
 
-- [Learn More](##Learn-More)
+- [Learn More](#Learn-More)
 
 ## Technologies used
 
