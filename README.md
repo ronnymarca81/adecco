@@ -82,7 +82,7 @@ This first sprint will be taken as a reference and will be shown to the end user
 
 
 
-## Getting Started// Installation and run
+## Getting Started
 
 Follow the next steps:
 
