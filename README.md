@@ -66,11 +66,9 @@ pnpm install
 ```bash
 npm run dev
 # or
-yarn dev
+yarn run dev
 # or
-pnpm dev
-# or
-bun dev
+pnpm run dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
