@@ -128,6 +128,13 @@ pnpm run dev
 
 ## How to Start
 
+To access to the application at the first time:
+1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page. Puedes cambiar aca y que diga register en vez de login??
+
+![register](https://github.com/ronnymarca81/adecco/assets/107527808/8a456ca8-b630-4648-8038-0834c153bda7)
+
+2. Complete the form with your Full name, email and password.
+3. Click on the register button.
 
 
 To login:
@@ -138,13 +145,6 @@ To login:
 2. Type your registered email and password.
 3. Click on the login button.
 
-To access to the application at the first time:
-1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page. Puedes cambiar aca y que diga register en vez de login??
-
-![register](https://github.com/ronnymarca81/adecco/assets/107527808/8a456ca8-b630-4648-8038-0834c153bda7)
-
-2. Complete the form with your Full name, email and password.
-3. Click on the register button.
 
 Functions in the main dashboard allow the users to create different projects and manage them. To do that:
 
