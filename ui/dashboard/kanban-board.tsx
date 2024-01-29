@@ -4,6 +4,8 @@ import PlusIcon from "@/icons/PlusIcon";
 import { useState, useMemo, useEffect } from "react";
 import { Column, Id, Task } from "@/types";
 import ColumnContaier from "./column-container";
+
+
 import {
   DndContext,
   DragEndEvent,
@@ -287,12 +289,10 @@ export default function KanbanBoard() {
             "
         >
           <PlusIcon />
-          Add Column
+          Add New List
         </button>{" "}
       </div>
-      <div
-      className="m-auto flex py-10"
-      >
+      <div className="m-auto flex py-10">
         <DndContext
           sensors={sensors}
           onDragStart={onDragStart}
@@ -300,7 +300,7 @@ export default function KanbanBoard() {
           onDragOver={onDragOver}
         >
           <div className="m-auto flex gap-4">
-            <div className="flex gap-4">
+            <div className="flex flex-col md:flex-row gap-4">
               <SortableContext items={columnsId}>
                 {columns.map((col) => (
                   <ColumnContaier

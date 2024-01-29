@@ -18,6 +18,15 @@ export default function RegisterPage() {
 
      if (!name || !email || !password) {
        setError("All fields must be provided");
+       return;
+     }
+     if(name.length < 10){
+      setError("Name must be at least 10 characters");
+      return;
+     }
+     if(password.length < 8){
+       setError("Password must be at least 8 characters");
+       return;
      }
      try {
        const resUserExists = await fetch("api/userExists", {
@@ -31,7 +40,7 @@ export default function RegisterPage() {
        const { user } = await resUserExists.json();
 
        if (user) {
-         setError("User already exists.");
+         setError(`This email [${email}] has been registering previously.`);
          return;
        }
        const res = await fetch("api/register", {
@@ -60,7 +69,7 @@ export default function RegisterPage() {
   return (
     <div className="grid place-items-center h-screen">
       <div className="shadow-lg p-5 rounded-lg border-t-4 border-blue-400">
-        <h1 className="text-xl font-bold my-4">Login</h1>
+        <h1 className="text-xl font-bold my-4">Register</h1>
         <form onSubmit={handleSubmit} className="flex flex-col gap-3">
           <input
             className="border w-full h-5 px-3 py-5 mt-2 hover:outline-none focus:outline-none focus:ring-indigo-500 focus:ring-1 rounded-md"
