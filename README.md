@@ -51,6 +51,18 @@ Follow the next steps:
 2. Install dependencies by running yarn
 3. Run the development server with:
 
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
 ## Usage
 
 ```bash
@@ -115,18 +127,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
 
 ## Show your support
 
