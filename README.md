@@ -59,6 +59,7 @@ This first sprint will be taken as a reference and will be shown to the end user
   - register
 - icons
 - lib
+- lib
 - model
 - public
 - ui
@@ -66,13 +67,18 @@ This first sprint will be taken as a reference and will be shown to the end user
   - login
   - register
 
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| Name     | Description                      |
+| ---      | ---                              |
+| app      | Routubg Convention               |
+| api      | API Router                       |
+| dashboard| Pages Router                     |
+| register | Pages Router                     |
+| icons    | Utilities folder                 | 
+| lib      | utilities for conexion Database  |
+| model    | Schemas for Database             |
+| public   | Static assets to be served       |
+| ui       | utilities folder for components  |
 
-# ArbolBinarioCompleto
-3,4,5,6,7,7,6,5,4,,3,3,4,5,6,7,,7,65,,4,4,4,4,44,4,1,2,3,4,5,6,70
 
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
