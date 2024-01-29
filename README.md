@@ -82,17 +82,13 @@ This first sprint will be taken as a reference and will be shown to the end user
 | `ui`         | utilities folder for components    |
 
 
-*****Justify more about the proposal, why the technologies
-The technologies used facilites...
-
-The others features could be analysis with the client and added by requeriment.
 
 ## Getting Started// Installation and run
 
 Follow the next steps:
 
 1. Clone the repository to your local machine using git clone [https://github.com/ronnymarca81/adecco](https://github.com/ronnymarca81/adecco/blob/main/README.md)
-2. Install dependencies by running yarn
+2. Install dependencies by running npm, yarn, pnpm
 3. Run the development server with:
 
 ## Install
