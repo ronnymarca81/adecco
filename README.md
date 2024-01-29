@@ -69,17 +69,17 @@ This first sprint will be taken as a reference and will be shown to the end user
 
 ## Table Project Structure Description
 
-| Name         | Description                      |
-| ---          | ---                              |
-| `app`        | Routing Convention               |
-| `api`        | API Router                       |
-| `dashboard`  | Pages Router                     |
-| `register`   | Pages Router                     |
-| `icons`      | Utilities folder                 | 
-| `lib`        | utilities for conexion Database  |
-| `model`      | Schemas for Database             |
-| `public`     | Static assets to be served       |
-| `ui`         | utilities folder for components  |
+| Name         | Description                        |
+| ---          | ---                                |
+| `app`        | Routing Convention                 |
+| `api`        | API Router                         |
+| `dashboard`  | Pages Router                       |
+| `register`   | Pages Router                       |
+| `icons`      | Utilities folder                   | 
+| `lib`        | utilities for Database connecting  |
+| `model`      | Schemas for Database               |
+| `public`     | Static assets to be served         |
+| `ui`         | utilities folder for components    |
 
 
 *****Justify more about the proposal, why the technologies
