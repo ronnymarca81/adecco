@@ -51,6 +51,8 @@ Follow the next steps:
 2. Install dependencies by running yarn
 3. Run the development server with:
 
+## Usage
+
 ```bash
 npm run dev
 # or
