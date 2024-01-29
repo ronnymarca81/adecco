@@ -126,11 +126,9 @@ pnpm run dev
 
 **This application uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Usage
+## How to Start
 
-**Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
-You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
-Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.**
+
 
 To login:
 1. Open [http://localhost:3000](http://localhost:3000) with your browser
