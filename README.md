@@ -51,7 +51,7 @@ This first sprint will be taken as a reference and will be shown to the end user
 ## Project Structure
 
 - app
-    Sub app
+  1.Sub app
 - icons
 - lib
 - model
