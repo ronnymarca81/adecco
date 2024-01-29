@@ -140,9 +140,9 @@ To login:
 3. Click on the login button.
 
 
-Functions in the main dashboard allow the users to create different projects and manage them. To do that:
+Functions in the main dashboard allow the users to Drag and Drop to lists and sort tasts in the same list and Drag and Drop tasks to differents lists. To do that:
 
-1. Clic on `Add Column` to create a new card. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
+1. Clic on `Add Column` to create a new List. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
 2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
 3. Drap and drop each task inside the card or between them to manage your tasks. 
 
