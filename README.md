@@ -9,7 +9,8 @@
 :construction: Project under construction :construction:
 </h4>
 
-## :hammer :Features
+## :hammer:Funcionalidades del proyecto
+## Features
 
 **It is an activity planner, that allows you to create lists of activities and within the lists create tasks, with the ease of being able to drag and drop the lists to organize them as you wish and additionally allows you to move tasks between lists.**
 
