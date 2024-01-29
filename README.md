@@ -88,8 +88,17 @@ This first sprint will be taken as a reference and will be shown to the end user
 Follow the next steps:
 
 1. Clone the repository to your local machine using git clone [https://github.com/ronnymarca81/adecco](https://github.com/ronnymarca81/adecco/blob/main/README.md)
-2. Install dependencies by running npm, yarn, pnpm
-3. Run the development server with:
+2. Create a Database Mongo and get a connection string
+3. Create .env at the same level of app folder
+4. Install dependencies by running npm, yarn, pnpm
+6. Run the development server with:
+
+## .env
+```sh
+MONGODB_URI = put your connection string
+NEXTAUTH_SECRET = put a random Nextauth-secret
+NEXTAUTH_URL=http://localhost:3000/
+```
 
 ## Install
 
