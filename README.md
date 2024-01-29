@@ -3,15 +3,6 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-## Technologies used
-
-- NEXTJS
-- TYPESCRIPT
-- GIT
-- MONGODB
-- NEXTAUTH
-- TAILWIND CSS
-
 ## Features
 
 **It is an activity planner, that allows you to create lists of activities and within the lists create tasks, with the ease of being able to drag and drop the lists to organize them as you wish and additionally allows you to move tasks between lists.**
@@ -39,7 +30,16 @@ For this short sprint, we can start doing the login, Register and Kanban board f
 - Kanban Board Page: It will have three lists with preconfigured activities [Todo, Work in progress and Done], where you can drag and drop between the lists to organize them and sort tasks in a list or move a task to another list. Additionally, you can change the title     of the lists or description of the tasks, as well as delete lists and tasks.
   Finally, you can create new lists by clicking on the Add New List button.
 
-This first sprint will be taken as a reference and will be shown to the end user to discover the set of functionalities they want for the application. Using agile methodologies and making partial deliveries with the purpose of building a solution that aligns with the needs
+This first sprint will be taken as a reference and will be shown to the end user to discover the set of functionalities they want for the application. Using agile methodologies and making partial deliveries with the purpose of building a solution that aligns with the needs.
+
+## Technologies used
+
+- NEXTJS
+- TYPESCRIPT
+- GIT
+- MONGODB
+- NEXTAUTH
+- TAILWIND CSS
 
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
