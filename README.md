@@ -14,7 +14,7 @@
 
 ## Features
 
-**It is a planner that allows you to create a list and within the lists create tasks, with the ease of being able to drag and drop the lists to organize them as you wish and additionally allows you to move tasks between lists.**
+**It is an activity planner, that allows you to create a list and within the lists create tasks, with the ease of being able to drag and drop the lists to organize them as you wish and additionally allows you to move tasks between lists.**
 
 - Intuitive and easy-to-use interface.
 - Route redirection.
