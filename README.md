@@ -55,12 +55,10 @@ Follow the next steps:
 
 ```sh
 npm install
-```
-
-## Usage
-
-```sh
-npm run start
+# or
+yarn install
+# or
+pnpm install
 ```
 
 ## Usage
