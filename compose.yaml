@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  # Next.js service
+  nextjs:
+    container_name: mynextjs
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nextjs-mongodb-app
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/adecco?authSource=writeapp&w=1
+    depends_on:
+      - mongo
+    links: 
+      - mongo
+
+  # MongoDB service
+  mongo:
+    container_name: mymongodb
+    image: mongo:latest
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: usertest
+      MONGO_INITDB_ROOT_PASSWORD: 7roPAwscdreP4UaR
+    volumes:
+      - mongodb-data:/data/db
+
+volumes:
+  mongodb-data:
+
+
+
