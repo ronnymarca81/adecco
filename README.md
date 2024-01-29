@@ -1,20 +1,8 @@
-# Adecco
+<h1 align="center">Welcome to myplanner 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This repository contains an application with a login to enter it and a trello-type task manager with drag and drop.
-
-## Content table
-
-- [Technologies used](#Technologies-used)
-
-- [Features](#Features)
-
-  - [Case Analysis](#Case-Analysis)
-
-- [Getting Started// Installation and run](#Getting-Started-//-Installation-and-run)
-
-- [Usage](#Usage)
-
-- [Learn More](#Learn-More)
 
 ## Technologies used
 
@@ -124,3 +112,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
