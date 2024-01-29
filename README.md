@@ -40,6 +40,9 @@ This first sprint will be taken as a reference and will be shown to the end user
 - MONGODB
 - NEXTAUTH
 - TAILWIND CSS
+- DND-KIT
+
+## Project Structure
 
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
