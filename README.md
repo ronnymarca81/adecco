@@ -2,6 +2,9 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DEVELOPNG-green">
+</p>
 
 ## Features
 
@@ -43,6 +46,13 @@ This first sprint will be taken as a reference and will be shown to the end user
 - DND-KIT
 
 ## Project Structure
+
+- app
+- icons
+- lib
+- model
+- public
+- ui
 
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
