@@ -57,6 +57,9 @@ This first sprint will be taken as a reference and will be shown to the end user
 - public
 - ui
 
+# ArbolBinarioCompleto
+3,4,5,6,7,7,6,5,4,,3,3,4,5,6,7,,7,65,,4,4,4,4,44,4,1,2,3,4,5,6,70
+
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
 
