@@ -69,7 +69,7 @@ This first sprint will be taken as a reference and will be shown to the end user
 
 | Name     | Description                      |
 | ---      | ---                              |
-| app      | Routubg Convention               |
+| app      | Routing Convention               |
 | api      | API Router                       |
 | dashboard| Pages Router                     |
 | register | Pages Router                     |
