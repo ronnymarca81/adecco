@@ -36,11 +36,10 @@ About the planner Trello-type, the application could have Kanban groups which ma
 For this short sprint, we can start doing the login, Register and Kanban board features, the below we are going to describe them.
 - Login Page: You can authenticate using the user credentials (email and password).
 - Register Page: You can create an account in order to be able to login the application. You need to fill some fields like Full Name, email and password. There are some validations for Full Name field is requiered to have at least 10 characters, Password is requierd to   have at least 8 characters and email field is requiered to have a valid email format.
-- Kanban Board Page: It will have three lists with preconfigured activities [Todo, Work in progress and Done], where you can drag and drop between the rows to organize them and sort tasks in a list or move a task to another list. Additionally, you can change the title     of the lists or description of the tasks, as well as delete lists and tasks.
-  Additionally, you can create new lists by clicking on the Add New List button.
+- Kanban Board Page: It will have three lists with preconfigured activities [Todo, Work in progress and Done], where you can drag and drop between the lists to organize them and sort tasks in a list or move a task to another list. Additionally, you can change the title     of the lists or description of the tasks, as well as delete lists and tasks.
+  Finally, you can create new lists by clicking on the Add New List button.
 
-
-is through authentication the user credentials (email and password), as well as recovering the access via email. Users can create one dashboard/kanban for each of their projects, on it they can add cards/columns with a task list. Each task can be drag and drop between the differents cards according its state to manage the project. 
+This first sprint will be taken as a reference and will be shown to the end user to discover the set of functionalities they want for the application. Using agile methodologies and making partial deliveries with the purpose of building a solution that aligns with the needs
 
 *****Justify more about the proposal, why the technologies
 The technologies used facilites...
