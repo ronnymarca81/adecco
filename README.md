@@ -59,7 +59,6 @@ This first sprint will be taken as a reference and will be shown to the end user
   - register
 - icons
 - lib
-- lib
 - model
 - public
 - ui
