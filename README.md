@@ -89,7 +89,7 @@ Follow the next steps:
 
 1. Clone the repository to your local machine using git clone [https://github.com/ronnymarca81/adecco](https://github.com/ronnymarca81/adecco/blob/main/README.md)
 2. Create a Database Mongo and get a connection string
-3. Create .env at the same level of app folder
+3. Create .env at the same level of app folder and add enviroment variables
 4. Install dependencies by running npm, yarn, pnpm
 6. Run the development server with:
 
