@@ -148,6 +148,8 @@ Functions in the main dashboard allow the users to Drag and Drop to lists and so
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/bfe11e98-9ade-4e68-a59f-79fca3bde117)
 
-To Sign Out:
+##To Sign Out:
+```bash
 Close the user session and redirect to login page
+```
 
