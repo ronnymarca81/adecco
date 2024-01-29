@@ -120,12 +120,6 @@ yarn run dev
 pnpm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-** You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-**This application uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
 ## How to Start
 
 To access to the application at the first time:
@@ -133,8 +127,7 @@ To access to the application at the first time:
 
 ![register](https://github.com/ronnymarca81/adecco/assets/107527808/8a456ca8-b630-4648-8038-0834c153bda7)
 
-2. Complete the form with your Full name, email and password.
-   2.1 Hi
+2. Complete the form with your Full name, email and password. (There are some constraints for Full Name field: must be at least 10 characters, email field: must has a valid email format and password field: must be at least 8 characters )
 4. Click on the register button.
 
 
