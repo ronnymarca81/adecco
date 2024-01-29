@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DEVELOPNG-green">
+   <img src="https://img.shields.io/badge/STATUS-%20DEVELOPNG-green">
 </p>
 
 ## Features
