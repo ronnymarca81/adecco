@@ -47,6 +47,7 @@ This first sprint will be taken as a reference and will be shown to the end user
 - NEXTAUTH
 - TAILWIND CSS
 - DND-KIT
+- DOCKER
 
 ## Project Structure
 
