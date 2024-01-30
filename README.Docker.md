@@ -45,5 +45,26 @@ To login:
 2. Type your registered email and password.
 3. Click on the login button.
 
+The next images show the different functions and the responsive design"
+
+![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
+a. Dashboard with the different lists.
+
+![drag and drop2](https://github.com/ronnymarca81/adecco/assets/107527808/f4965f35-e05f-4462-a9f2-d2ef546a3a61)
+b. Drag and drop a list.
+
+![drag and drop3](https://github.com/ronnymarca81/adecco/assets/107527808/977a499f-bece-4d31-8b5e-91e87f6760a7)
+c. List dragged and dropped as the first column that shows how its name is name can be modified.
+
+![drag and drop4](https://github.com/ronnymarca81/adecco/assets/107527808/750a7b1a-0c74-4d13-a404-2efb37350541)
+d. Drag and drop a task between the lists.
+
+![mobile view](https://github.com/ronnymarca81/adecco/assets/107527808/872378d9-5308-41aa-82c2-2138dc214254)
+
+e. Mobile view showing the responsive design feature.
+
+## To Sign Out
+
+Close the user session and redirect to login page.
 
 
