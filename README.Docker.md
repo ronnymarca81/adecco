@@ -21,9 +21,7 @@ yarn install
 pnpm install
 ```
 
-### Building and running your application
-
-When you're ready, start your application by running:
+3. Open a terminal and go to your project folder, When you're ready, start your application by running:
 `docker compose up --build`.
 
 To access to the application at the first time:
