@@ -126,12 +126,12 @@ To access to the application at the first time:
 
 ![register](https://github.com/ronnymarca81/adecco/assets/107527808/55f9abaa-85d9-437f-9b94-fc1cbf05325c)
 
-2. Complete the form with your Full name, email and password. (There are some constraints for Full Name field: must be at least 10 characters, email field: must has a valid email format and password field: must be at least 8 characters )
+2. Complete the form with your Full name, email and password. (There are some constraints for Full Name field: must be at least 10 characters, email field: must have a valid email format and password field: must be at least 8 characters )
 4. Click on the register button.
 
 
 To login:
-1. Open [http://localhost:3000](http://localhost:3000) with your browser
+1. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
 
@@ -139,26 +139,31 @@ To login:
 3. Click on the login button.
 
 
-Functions in the main dashboard allow the users to Drag and Drop to lists and sort tasks in the same list and Drag and Drop tasks to differents lists. To do that:
+Functions in the main dashboard allow the users to Drag and Drop the lists and sort tasks in the same list and Drag and Drop tasks to differents lists. To do that:
 
-1. Clic on `Add New List` to create a new List. On it, the user will be able to customize the card name, modify by clicking on New List, or delete.
-2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
-3. Drap and drop each task inside the card or between them to manage your tasks. 
+1. Clic on `Add New List` to create a new List. On it, the user will be able to customize the list name, modify by clicking on New List, or delete.
+2. In the list, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
+3. Drap and drop each task inside the list or between them to manage your tasks.
+
+The next images show the different functions and the responsive design"
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
+a. Dashboard with the different lists.
 
 ![drag and drop2](https://github.com/ronnymarca81/adecco/assets/107527808/f4965f35-e05f-4462-a9f2-d2ef546a3a61)
+b. Drag and drop a list.
 
 ![drag and drop3](https://github.com/ronnymarca81/adecco/assets/107527808/977a499f-bece-4d31-8b5e-91e87f6760a7)
-
+c. List dragged and dropped as the first column that shows how its name is name can be modified
+.
 ![drag and drop4](https://github.com/ronnymarca81/adecco/assets/107527808/750a7b1a-0c74-4d13-a404-2efb37350541)
+d. Drag and drop a task between the lists.
 
 ![mobile view](https://github.com/ronnymarca81/adecco/assets/107527808/872378d9-5308-41aa-82c2-2138dc214254)
-
-
+e. Mobile view showing the responsive design feature.
 
 ## To Sign Out:
 
-Close the user session and redirect to login page
+Close the user session and redirect to login page.
 
 
