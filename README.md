@@ -145,7 +145,8 @@ Functions in the main dashboard allow the users to Drag and Drop to lists and so
 2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
 3. Drap and drop each task inside the card or between them to manage your tasks. 
 
-![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/bfe11e98-9ade-4e68-a59f-79fca3bde117)
+![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
+
 
 ## To Sign Out:
 
