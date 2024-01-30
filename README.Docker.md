@@ -7,3 +7,6 @@ Your application will be available at http://localhost:3000.
 
 ### Requirements
 
+You need to have docker desktop configured
+
+
