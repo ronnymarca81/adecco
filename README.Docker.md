@@ -1,7 +1,5 @@
 
 
-Your application will be available at http://localhost:3000.
-
 ### Requirements
 
 You need to have docker desktop configured
@@ -28,6 +26,8 @@ pnpm install
 ```sh
 docker compose up --build
 ```
+
+Your application will be available at http://localhost:3000.
 
 ### To access to the application at the first time:
 1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page.
