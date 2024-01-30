@@ -2,7 +2,7 @@ version: '3'
 
 services:
   # Next.js service
-  nextjs:
+  myplanner:
     container_name: mynextjs
     restart: always
     build:
@@ -12,7 +12,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - MONGODB_URI=mongodb://mongo:27017/adecco?authSource=writeapp&w=1
+      - MONGODB_URI=mongodb://usertest:7roPAwscdreP4UaR@mongo:27017/adecco
     depends_on:
       - mongo
     links: 
@@ -28,8 +28,12 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: usertest
       MONGO_INITDB_ROOT_PASSWORD: 7roPAwscdreP4UaR
+      MONGO_INITDB_DATABASE: adecco
+  
     volumes:
       - mongodb-data:/data/db
+      - ./docker-entrypoint-initdb.d/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+
 
 volumes:
   mongodb-data:

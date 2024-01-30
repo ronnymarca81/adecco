@@ -133,7 +133,7 @@ export default function KanbanBoard() {
   const createNewColumn = () => {
     const columnToAdd: Column = {
       id: generateId(),
-      title: `Column ${columns.length + 1}`
+      title: `New List ${columns.length + 1}`
     };
 
     setColumns([...columns, columnToAdd]);
