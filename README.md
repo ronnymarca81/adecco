@@ -153,7 +153,8 @@ Functions in the main dashboard allow the users to Drag and Drop to lists and so
 
 ![drag and drop4](https://github.com/ronnymarca81/adecco/assets/107527808/750a7b1a-0c74-4d13-a404-2efb37350541)
 
-![mobile view](https://github.com/ronnymarca81/adecco/assets/107527808/db8cc565-4c4a-48b9-aea2-fc9c5f8c9ff7)
+![mobile view](https://github.com/ronnymarca81/adecco/assets/107527808/872378d9-5308-41aa-82c2-2138dc214254)
+
 
 
 ## To Sign Out:
