@@ -46,7 +46,7 @@ Your application will be available at http://localhost:3000.
 2. Complete the form with your Full name, email and password. (There are some constraints for Full Name field: must be at least 10 characters, email field: must have a valid email format and password field: must be at least 8 characters )
 3. Click on the register button.
 
-To login:
+### To login:
 1. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
