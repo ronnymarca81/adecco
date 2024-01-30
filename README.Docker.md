@@ -29,7 +29,7 @@ pnpm install
 docker compose up --build
 ```
 
-To access to the application at the first time:
+### To access to the application at the first time:
 1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page.
 
 ![register](https://github.com/ronnymarca81/adecco/assets/107527808/55f9abaa-85d9-437f-9b94-fc1cbf05325c)
