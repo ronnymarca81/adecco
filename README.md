@@ -131,7 +131,7 @@ To access to the application at the first time:
 3. Click on the register button.
 
 
-To login:
+### To login:
 1. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ![login](https://github.com/ronnymarca81/adecco/assets/107527808/a4e88bdf-b53d-4174-a943-0ceb0f9f90aa)
@@ -146,7 +146,7 @@ Functions in the main dashboard allow the users to Drag and Drop the lists and s
 2. In the list, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
 3. Drap and drop each task inside the list or between them to manage your tasks.
 
-The next images show the different functions and the responsive design"
+### The next images show the different functions and the responsive design
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
 a. Dashboard with the different lists.
