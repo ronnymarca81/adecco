@@ -141,12 +141,17 @@ To login:
 
 Functions in the main dashboard allow the users to Drag and Drop to lists and sort tasts in the same list and Drag and Drop tasks to differents lists. To do that:
 
-1. Clic on `Add Column` to create a new List. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
+1. Clic on `Add New List` to create a new List. On it, the user will be able to customize the card name, modify by clicking on Column, or delete.
 2. In the card, clic on `Add task` to register the details for each of the them. Also, delete it is possible.
 3. Drap and drop each task inside the card or between them to manage your tasks. 
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
 
+![drag and drop2](https://github.com/ronnymarca81/adecco/assets/107527808/f4965f35-e05f-4462-a9f2-d2ef546a3a61)
+
+![drag and drop3](https://github.com/ronnymarca81/adecco/assets/107527808/977a499f-bece-4d31-8b5e-91e87f6760a7)
+
+![drag and drop4](https://github.com/ronnymarca81/adecco/assets/107527808/750a7b1a-0c74-4d13-a404-2efb37350541)
 
 ## To Sign Out:
 
