@@ -54,7 +54,7 @@ Your application will be available at http://localhost:3000.
 2. Type your registered email and password.
 3. Click on the login button.
 
-The next images show the different functions and the responsive design"
+### The next images show the different functions and the responsive design
 
 ![drag and drop](https://github.com/ronnymarca81/adecco/assets/107527808/581aca8e-e926-4a7c-aafe-db093307398f)
 a. Dashboard with the different lists.
