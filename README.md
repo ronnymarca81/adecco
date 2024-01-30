@@ -163,7 +163,7 @@ d. Drag and drop a task between the lists.
 
 e. Mobile view showing the responsive design feature.
 
-## To Sign Out:
+## To Sign Out
 
 Close the user session and redirect to login page.
 
