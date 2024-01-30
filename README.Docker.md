@@ -22,9 +22,10 @@ pnpm install
 ```
 
 3. Open a terminal and go to your project folder, When you're ready, start your application by running:
-   ```sh
-      `docker compose up --build`.
-   ```
+   
+```sh
+`docker compose up --build`.
+```
 
 To access to the application at the first time:
 1. Go to [http://localhost:3000/register](http://localhost:3000/register) or clic on register link in the login page.
