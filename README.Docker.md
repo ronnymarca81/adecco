@@ -22,6 +22,8 @@ pnpm install
 ```
 
 3. Open a terminal and go to your project folder, When you're ready, start your application by running:
+
+### Building and running your application
    
 ```sh
 docker compose up --build
