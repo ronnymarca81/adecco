@@ -35,7 +35,7 @@ Your application will be available at http://localhost:3000.
 ![register](https://github.com/ronnymarca81/adecco/assets/107527808/55f9abaa-85d9-437f-9b94-fc1cbf05325c)
 
 2. Complete the form with your Full name, email and password. (There are some constraints for Full Name field: must be at least 10 characters, email field: must have a valid email format and password field: must be at least 8 characters )
-4. Click on the register button.
+3. Click on the register button.
 
 
 
